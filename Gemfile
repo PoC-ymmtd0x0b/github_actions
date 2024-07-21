@@ -15,6 +15,10 @@ gem 'sqlite3', '~> 1.4'
 gem 'stimulus-rails'
 gem 'turbo-rails'
 
+# not default
+gem 'html2slim'
+gem 'slim-rails'
+
 group :development, :test do
   gem 'debug', platforms: %i[mri mswin mswin64 mingw x64_mingw]
 end
