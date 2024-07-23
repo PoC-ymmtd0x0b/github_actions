@@ -1,0 +1,4 @@
+{
+  "extends": "standard",
+  "ignorePatterns": ["app/javascript/controllers/index.js"]
+}
